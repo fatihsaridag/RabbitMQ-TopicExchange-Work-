@@ -1,4 +1,4 @@
-## Topic Exchange Kullanımı (Detaylı routelama yapısına sahip bir Exchange )## 
+## Topic Exchange Kullanımı (Detaylı routelama yapısına sahip bir Exchange) ## 
 
 Biz producer olarak bir mesaj gönderdiğimizde mesajımızın route keyinde normal bir string olarak mesaj yazmak yerine "." lar ile beraber ifadeler belirliyoruz.<br/>
 Örnek olarak  Routing Key => Critical.Error.Warning  <br/>
